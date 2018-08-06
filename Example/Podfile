@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CarouselCollection_Example' do
+  pod 'CarouselCollection', :path => '../'
+
+  target 'CarouselCollection_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end
