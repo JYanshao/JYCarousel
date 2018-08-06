@@ -1,0 +1,6 @@
+framework module CarouselCollection {
+  umbrella header "CarouselCollection-umbrella.h"
+
+  export *
+  module * { export * }
+}

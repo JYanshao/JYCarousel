@@ -1,0 +1,22 @@
+{
+  "name": "CarouselCollection",
+  "version": "0.1.0",
+  "summary": "A short description of CarouselCollection.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/JYanshao/CarouselCollection",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "JYanshao": "anshao2268@163.com"
+  },
+  "source": {
+    "git": "https://github.com/JYanshao/CarouselCollection.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CarouselCollection/Classes/**/*"
+}
